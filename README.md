@@ -1,2 +1,5 @@
 # blockchain
-a blockchain in python
+a blockchain in Python
+
+## 参考
+https://github.com/dvf/blockchain
